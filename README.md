@@ -45,6 +45,9 @@ _Rum_
 * Tydlig dokumentation för alla era API-anrop
 * Det finns felhantering ifall något går fel mot DynamoDB och ifall man försöker skicka in fel värden från body.
 
+## Presentation
+Diskussion om gruppens projekt vid Code Review 13/9. Ni kommer delas in i tvärgrupper med personer från andra grupper, och det är därför viktigt att alla i gruppen är införstådda med vad all kod man lämnar in gör. Även den kod man själv inte skrivit. 
+
 ## Inlämning
 
 Inlämning sker på Azomo med en länk till ert Github repo med er kod senast 13/9 23:59. Observera att alla gruppen behöver lämna in projektet.
