@@ -51,3 +51,6 @@ Diskussion om gruppens projekt vid Code Review 13/9. Ni kommer delas in i tvärg
 ## Inlämning
 
 Inlämning sker på Azomo med en länk till ert Github repo med er kod senast 13/9 23:59. Observera att alla gruppen behöver lämna in projektet.
+
+## Grupper
+Era gruppkonstellationer [hittar ni här](https://docs.google.com/document/d/1PrsHGL_3YnO0Y0iz3dsGaNPZKW9EWbl_ks4vSghgEdw/edit?usp=sharing).
